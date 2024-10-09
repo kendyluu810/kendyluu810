@@ -25,16 +25,16 @@
         <img src="/img/logo.png" wifth="90" height="90"/>
     </a>
   <a href="https://www.facebook.com/kendy.luuu/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="kendyluu-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/luu-hung/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="kendyluu-linkedin" />
   </a>
   <a href="https://www.instagram.com/kendy_luu/" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="kendyluu-instagram" />
   </a>
   <a href="mailto:hung.luu81000@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="kendyluu-email" />
   </a>
 </div>
 </div>
