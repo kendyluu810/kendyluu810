@@ -21,7 +21,7 @@
 <h2 align="center"> Where to find me</h2>
 <br/>
 <div align="center">
-    <a href="https://www.hungl.online/" target="blank">
+    <a href="https://hungl.vercel.app/" target="blank">
         <img src="/img/logo.png" wifth="90" height="90"/>
     </a>
   <a href="https://www.facebook.com/kendy.luuu/" target="blank">
